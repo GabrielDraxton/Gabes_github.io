@@ -1,3 +1,16 @@
+# Skills
+
+- Strong knowledge of Microsoft Office, Python, Pyspark, Rstudio, SQL, NoSQL, Tableau, Gephi,
+Docker, Google Cloud Platform, PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas
+
+- Strong knowledge of Marketing Decision Science, Unstructured Data, Web Scraping, Data
+Cleansing and Manipulation, Predictive Modeling, Topic Modeling, Network Analysis, Language
+Processing, and Statistics
+
+# Education
+- University of Colorado Boulder – Leeds School of Business Boulder Colorado Master of Science in Business Analytics May 2021
+
+
 # Python Projects
 
 - Tensorflow Random Forrest Regression [Link](url)
@@ -16,6 +29,7 @@
 
 
 # Intersts outside of analytics
+
 - Fitness and Nutrition
 - Yoga
 - Building Electric Bikes
