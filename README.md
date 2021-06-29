@@ -12,6 +12,12 @@ Processing, and Statistics
 <dd>- Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
 Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics</dd>
 
+- University of Colorado Boulder – Leeds School of Business Boulder Colorado
+B.S.B.A Finance May 2020
+<dd>-Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
+Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting</dd>
+
+
 
 # Python Projects
 
@@ -26,8 +32,8 @@ Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanc
 # SQL visualizations 
 
 - Covid Progression [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
-- 
-- Masters Program SQL Visualizations [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
+
+- Interview Questionare [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
 
 
 # Intersts outside of analytics
