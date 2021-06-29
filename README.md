@@ -31,8 +31,9 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 
 # SQL Projects 
 - These are the fundamendal labs I completed duiring school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
-LAB SQL 02 (Select, Where).pptx
-SOLUTIONS LAB SQL 02 (Select, Where).sql
+
+[LAB SQL 02 (Select, Where)](https://drive.google.com/file/d/1espYo4HDVLe0bcYDKzwr3aOzQNBANUBU/view?usp=sharing)
+[Lab SQL 02 (Select, Where) QUERIES](https://drive.google.com/file/d/1ZOGrqY0mJf-rILKq9UsixKvGB-8rn2LX/view?usp=sharing)
 
 
 # Tableau Projects
