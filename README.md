@@ -21,13 +21,13 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 
 # Python Projects
 
-- Tensorflow Random Forrest Regression [Link](url)
+- [Tensorflow Random Forrest Regression](url)
 
-- Tensortflow LSTM Multivartiable Time Series [Link](url)
+- [Tensortflow LSTM Multivartiable Time Series](url)
 
-- Topic model using piplines [Link](url)
+- [Topic model using piplines](url)
 
-- Testing six different linear models on one data set to see which is optimal [Sample - Superstore.xls]
+- [Testing six different linear models on one data set to see which is optimal](url)
 
 # SQL Projects 
 - These are the fundamendal labs I completed duiring school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
