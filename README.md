@@ -55,7 +55,7 @@ Here was the task for my Python Class Final Exam:
 - Covid Progression [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
 This visualization shows a map of coivd case progression of the months from when it started. 
 
-- Interview Questionare Answers [Link](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
+- [Interview Questionare Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
  This was an actual interview quiz I was given.
  Notebook: Tableau Interview Question.twbx
  
