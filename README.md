@@ -31,7 +31,7 @@ Here was the task for my Python Class Final Exam:
 
 - [Google Trends Prophet Forecast](https://colab.research.google.com/drive/1rsI6gBR5fOoa-id_dnn-3pTlJl7fKOUF?usp=sharing)
 
-- [Video of me explaining a BERT Text Classification Model](https://www.youtube.com/watch?v=8PqJD9WhODc&t=1s)
+- [Video of me explaining a BERT Text Classification Model](https://youtu.be/JtRiFqejWG0)
 
 # SQL Projects 
 
