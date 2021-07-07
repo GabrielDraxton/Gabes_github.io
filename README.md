@@ -25,6 +25,10 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 Here was the task for my Python Class Final Exam: 
 *Your challenge now is to build an series of regression equations that predict advertising effectiveness (clicks). For this project I want you to imagine that you're working as a digital advertising strategist. You're trying to learn what it is about the advertising campaigns that you're looking at that drove clicks.*
 
+- [PySpark Assignment](https://colab.research.google.com/drive/1PyxPejgDmDeQuOG-V3b4w-1WaVnSsn01?usp=sharing)
+
+- [topic model using piplines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
+
 - [Geolocating Twitter Data](https://colab.research.google.com/drive/1kPYTT0ABvaONQIDX30_RqlcJ7hZ9EB7v?usp=sharing) 
 
 - [Scraping Instagram Data](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
