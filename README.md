@@ -8,13 +8,13 @@ Cleansing and Manipulation, Predictive Modeling, Topic Modeling, Network Analysi
 Processing, and Statistics
 
 # Education
+## Masters Master of Science in Business Analytics May 2021
 - University of Colorado Boulder – Leeds School of Business Boulder Colorado
-- Master of Science in Business Analytics May 2021
 - Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
 Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics
 
+## B.S.B.A Finance May 2020
 - University of Colorado Boulder – Leeds School of Business Boulder Colorado 
-- B.S.B.A Finance May 2020
 - Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
 Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
