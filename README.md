@@ -15,7 +15,7 @@ Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanc
 
 - University of Colorado Boulder – Leeds School of Business Boulder Colorado 
 - B.S.B.A Finance May 2020
--Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
+- Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
 Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
 # Python Projects (Google Colab Notebooks)
