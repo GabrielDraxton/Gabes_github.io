@@ -28,7 +28,7 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 ### [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
 ### [Unstructured Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
 - See project assignment for more details 
-- Abstract:
+### Abstract:
 - This analysis aims to assist Nike in understanding their customers’ experiences while shopping
 for their products on Amazon, as well as understand the shopping experience of their
 competitor’s customers. By providing insight as to what Nike and Adidas’ customers consider as
