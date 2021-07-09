@@ -27,9 +27,9 @@ Here was the task for my Python Class Final Exam:
 
 
 
-- [unstructered data report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
+- [Unstructered Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
 - [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
-- [unstructered data project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
+- [Unstructered Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
 See project assingment for more details 
 Abstract:
 This analysis aims to assist Nike in understanding their customers’ experiences while shopping
@@ -49,6 +49,29 @@ focus on creating a strong image in the customer’s mind without the use of vag
 wording while also including sport or activity specific information as it pertains to the product.
 
 - [Capital Asset Pricing Model](https://drive.google.com/file/d/1OZRxUu_8sMnhWm0NFUb17H-6F4pIcGJT/view?usp=sharing)
+Business Problem
+“Beat the Market” is a common phrase heard up and down Wall Street and the
+investment world. It’s a reference to an investor, corporation, or fund seeing
+better results than an industry standard. In the Investment world, performance is
+everything. Firms are measured by a never-ending expectation of performing
+better than the equity indices. If they want their current investor pool to be happy,
+and to continue to grow the fund with new investments, they must strive to
+maximize their ROI and minimize risk/losses.
+
+For this project, we are playing the role of a hedge fund, which is looking to build
+a fund that maximizes gains while limiting risk. We will use the S&P 500 as the
+benchmark index, as it is a commonly used index for many fund managers within
+the industry.Heavy analysis and modeling are required if anyone stands a chance
+of making this happen. There are several different methods used. The one we will
+demonstrate in this project is the Capital Asset Pricing Model (CAPM).
+
+The capital asset pricing model is important in the world of financial modeling for
+a few key reasons. Firstly, by helping investors calculate the expected return on an
+investment, it helps determine how appropriate a particular investment may be.
+Investors can use the CAPM for gauging their portfolio’s health and rebalancing,
+if necessary. Secondly, it’s a relatively simple formula that’s fairly easy to use.
+Additionally, the CAPM is an important tool for investors when it comes to
+accessing both risk
 
 - [PySpark Assignment](https://colab.research.google.com/drive/1PyxPejgDmDeQuOG-V3b4w-1WaVnSsn01?usp=sharing)
 This was my introduction to pyspark
