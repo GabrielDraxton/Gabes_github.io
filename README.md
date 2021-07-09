@@ -10,14 +10,13 @@ Processing, and Statistics
 # Education
 - University of Colorado Boulder – Leeds School of Business Boulder Colorado
 - Master of Science in Business Analytics May 2021
-<dd>- Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
-Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics</dd>
+- Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
+Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics
 
 - University of Colorado Boulder – Leeds School of Business Boulder Colorado 
 - B.S.B.A Finance May 2020
-<dd>-Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
-Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting</dd>
-
+-Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
+Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
 # Python Projects (Google Colab Notebooks)
 
