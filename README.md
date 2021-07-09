@@ -22,17 +22,15 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 # Python Projects (Google Colab Notebooks)
 
 - [Python Final Exam](https://colab.research.google.com/drive/1Y02bt9zwbLKisTIbImOozmTISA3SrivG?usp=sharing)
-Here was the task for my Python Class Final Exam: 
+- Here was the task for my Python Class Final Exam: 
 *Your challenge now is to build an series of regression equations that predict advertising effectiveness (clicks). For this project I want you to imagine that you're working as a digital advertising strategist. You're trying to learn what it is about the advertising campaigns that you're looking at that drove clicks.*
-
-
 
 - [Unstructered Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
 - [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
 - [Unstructered Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
-See project assingment for more details 
-Abstract:
-This analysis aims to assist Nike in understanding their customers’ experiences while shopping
+- See project assingment for more details 
+- Abstract:
+- This analysis aims to assist Nike in understanding their customers’ experiences while shopping
 for their products on Amazon, as well as understand the shopping experience of their
 competitor’s customers. By providing insight as to what Nike and Adidas’ customers consider as
 helpful or unhelpful in a review when shopping on Amazon, Nike will be able to improve their
@@ -49,8 +47,8 @@ focus on creating a strong image in the customer’s mind without the use of vag
 wording while also including sport or activity specific information as it pertains to the product.
 
 - [Capital Asset Pricing Model](https://drive.google.com/file/d/1OZRxUu_8sMnhWm0NFUb17H-6F4pIcGJT/view?usp=sharing)
-Business Problem
-“Beat the Market” is a common phrase heard up and down Wall Street and the
+- Business Problem
+- “Beat the Market” is a common phrase heard up and down Wall Street and the
 investment world. It’s a reference to an investor, corporation, or fund seeing
 better results than an industry standard. In the Investment world, performance is
 everything. Firms are measured by a never-ending expectation of performing
@@ -58,14 +56,14 @@ better than the equity indices. If they want their current investor pool to be h
 and to continue to grow the fund with new investments, they must strive to
 maximize their ROI and minimize risk/losses.
 
-For this project, we are playing the role of a hedge fund, which is looking to build
+- For this project, we are playing the role of a hedge fund, which is looking to build
 a fund that maximizes gains while limiting risk. We will use the S&P 500 as the
 benchmark index, as it is a commonly used index for many fund managers within
 the industry.Heavy analysis and modeling are required if anyone stands a chance
 of making this happen. There are several different methods used. The one we will
 demonstrate in this project is the Capital Asset Pricing Model (CAPM).
 
-The capital asset pricing model is important in the world of financial modeling for
+- The capital asset pricing model is important in the world of financial modeling for
 a few key reasons. Firstly, by helping investors calculate the expected return on an
 investment, it helps determine how appropriate a particular investment may be.
 Investors can use the CAPM for gauging their portfolio’s health and rebalancing,
@@ -74,21 +72,21 @@ Additionally, the CAPM is an important tool for investors when it comes to
 accessing both risk
 
 - [PySpark Assignment](https://colab.research.google.com/drive/1PyxPejgDmDeQuOG-V3b4w-1WaVnSsn01?usp=sharing)
-This was my introduction to pyspark
+- This was my introduction to pyspark
 
 - [topic model using piplines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
-This was my first topic model using piplines 
+- This was my first topic model using piplines 
 
 - [Geolocating Twitter Data](https://colab.research.google.com/drive/1kPYTT0ABvaONQIDX30_RqlcJ7hZ9EB7v?usp=sharing) 
-An assignemnt in which i leanred to:
-1. Extract self-declared users' locations from their Tweets
-2. Use the external package geostring to resolve the locations to known cities, states, and countries
+- An assignemnt in which i leanred to:
+- 1. Extract self-declared users' locations from their Tweets
+- 2. Use the external package geostring to resolve the locations to known cities, states, and countries
 
 - [Scraping Instagram Data](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
-This assingment showed me how to use APIs to scrape data. 
+- This assingment showed me how to use APIs to scrape data. 
 
 - [Google Trends Prophet Forecast](https://colab.research.google.com/drive/1rsI6gBR5fOoa-id_dnn-3pTlJl7fKOUF?usp=sharing)
-This showed me the how to take advantage of google trends and the simple to use facebook profit forecast. 
+- This showed me the how to take advantage of google trends and the simple to use facebook profit forecast. 
 
 - [Video of me explaining a BERT Text Classification Model](https://youtu.be/JtRiFqejWG0)
 
@@ -96,7 +94,7 @@ This showed me the how to take advantage of google trends and the simple to use 
 
 -[Creation and evaluation of a relational database](https://docs.google.com/document/d/1rIhrkp-Z2cazAGuVP9DhgivRPolO-esBI0_zMM5idlo/edit?usp=sharing)
 -[Project requirments](https://drive.google.com/file/d/1Br9T7n-JVqGs0pH_9zoLXigJ0pWcgw0E/view?usp=sharing)
-This was a team project to create a relational database based off of an imaginary business. See the project requirments for more details.
+- This was a team project to create a relational database based off of an imaginary business. See the project requirments for more details.
 
 - These are the fundamendal labs I completed duiring school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
 - [Lab SQL 02 (Select, Where)](https://drive.google.com/file/d/1espYo4HDVLe0bcYDKzwr3aOzQNBANUBU/view?usp=sharing)
