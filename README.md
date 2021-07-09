@@ -9,12 +9,12 @@ Processing, and Statistics
 
 # Education
 ## Masters Master of Science in Business Analytics May 2021
-### University of Colorado Boulder – Leeds School of Business Boulder Colorado
+### [University of Colorado Boulder – Leeds School of Business Boulder Colorado](https://www.colorado.edu/business/)
 - Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
 Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics
 
 ## B.S.B.A Finance May 2020
-### University of Colorado Boulder – Leeds School of Business Boulder Colorado 
+### [University of Colorado Boulder – Leeds School of Business Boulder Colorado](https://www.colorado.edu/business/) 
 - Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
 Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
@@ -114,12 +114,11 @@ accessing both risk
 # Tableau Projects
 
 ## [Covid Progression](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
-This visualization shows a map of covid case progression of the months from when it started. 
+- This visualization shows a map of covid case progression of the months from when it started. 
 
 ## [Interview Questionare Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
- This was an actual interview quiz I was given.
- Notebook: Tableau Interview Question.twbx
- 
+### [Notebook](https://drive.google.com/file/d/1LrRpRhBzjF_mcxZRcxk3McdfSEL1bOx8/view?usp=sharing)
+- This was an actual interview problem I was given. 
  
 # Personal Interests Outside of Analytics
 
