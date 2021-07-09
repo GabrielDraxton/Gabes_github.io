@@ -24,10 +24,10 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 - Here was the task for my Python Class Final Exam: 
 *Your challenge now is to build an series of regression equations that predict advertising effectiveness (clicks). For this project I want you to imagine that you're working as a digital advertising strategist. You're trying to learn what it is about the advertising campaigns that you're looking at that drove clicks.*
 
-## [Unstructered Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
+## [Unstructured Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
 - [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
-- [Unstructered Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
-- See project assingment for more details 
+- [Unstructured Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
+- See project assignment for more details 
 - Abstract:
 - This analysis aims to assist Nike in understanding their customers’ experiences while shopping
 for their products on Amazon, as well as understand the shopping experience of their
@@ -73,8 +73,8 @@ accessing both risk
 ## [PySpark Assignment](https://colab.research.google.com/drive/1PyxPejgDmDeQuOG-V3b4w-1WaVnSsn01?usp=sharing)
 - This was my introduction to pyspark
 
-## [topic model using piplines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
-- This was my first topic model using piplines 
+## [topic model using pipelines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
+- This was my first topic model using pipelines 
 
 ## [Geolocating Twitter Data](https://colab.research.google.com/drive/1kPYTT0ABvaONQIDX30_RqlcJ7hZ9EB7v?usp=sharing) 
 - Assignment goals:
@@ -82,10 +82,10 @@ accessing both risk
 - 2. Use the external package geostring to resolve the locations to known cities, states, and countries
 
 ## [Scraping Instagram Data](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
-- This assingment showed me how to use APIs to scrape data. 
+- This assignment showed me how to use APIs to scrape data. 
 
 ## [Google Trends Prophet Forecast](https://colab.research.google.com/drive/1rsI6gBR5fOoa-id_dnn-3pTlJl7fKOUF?usp=sharing)
-- This showed me the how to take advantage of google trends and the simple to use facebook profit forecast. 
+- This showed me how to take advantage of google trends and the simple to use facebook profit forecast. 
 
 ## [Video of me explaining a BERT Text Classification Model](https://youtu.be/JtRiFqejWG0)
 
@@ -93,10 +93,10 @@ accessing both risk
 
 ## [Creation and evaluation of a relational database](https://docs.google.com/document/d/1rIhrkp-Z2cazAGuVP9DhgivRPolO-esBI0_zMM5idlo/edit?usp=sharing)
 - [Project requirments](https://drive.google.com/file/d/1Br9T7n-JVqGs0pH_9zoLXigJ0pWcgw0E/view?usp=sharing)
-- This was a team project to create a relational database based off of an imaginary business. See the project requirments for more details.
+- This was a team project to create a relational database based off of an imaginary business. See the project requirements for more details.
 
-## Fundamendals
-- These are the fundamendal labs I completed duiring school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
+## Fundamentals
+- These are the fundamentals labs I completed during school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
 - [Lab SQL 02 (Select, Where)](https://drive.google.com/file/d/1espYo4HDVLe0bcYDKzwr3aOzQNBANUBU/view?usp=sharing)
 - [Lab SQL 02 (Select, Where) QUERIES](https://drive.google.com/file/d/1ZOGrqY0mJf-rILKq9UsixKvGB-8rn2LX/view?usp=sharing)
 - [LAB SQL 03 (Group By, Having)](https://drive.google.com/file/d/1I1Nn6d8HD1PeBYO_8rYxb936s6OIbUol/view?usp=sharing)
@@ -114,14 +114,14 @@ accessing both risk
 # Tableau Projects
 
 ## Covid Progression [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
-This visualization shows a map of coivd case progression of the months from when it started. 
+This visualization shows a map of covid case progression of the months from when it started. 
 
 ## [Interview Questionare Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
  This was an actual interview quiz I was given.
  Notebook: Tableau Interview Question.twbx
  
  
-# Intersts outside of analytics
+# Interests outside of analytics
 
 - Fitness and Nutrition
 - Yoga
