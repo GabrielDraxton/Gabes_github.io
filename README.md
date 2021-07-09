@@ -9,12 +9,12 @@ Processing, and Statistics
 
 # Education
 ## Masters Master of Science in Business Analytics May 2021
-- University of Colorado Boulder – Leeds School of Business Boulder Colorado
+### University of Colorado Boulder – Leeds School of Business Boulder Colorado
 - Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
 Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics
 
 ## B.S.B.A Finance May 2020
-- University of Colorado Boulder – Leeds School of Business Boulder Colorado 
+### University of Colorado Boulder – Leeds School of Business Boulder Colorado 
 - Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
 Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
@@ -25,8 +25,8 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 *Your challenge now is to build an series of regression equations that predict advertising effectiveness (clicks). For this project I want you to imagine that you're working as a digital advertising strategist. You're trying to learn what it is about the advertising campaigns that you're looking at that drove clicks.*
 
 ## [Unstructured Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
-- [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
-- [Unstructured Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
+### [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
+### [Unstructured Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
 - See project assignment for more details 
 - Abstract:
 - This analysis aims to assist Nike in understanding their customers’ experiences while shopping
@@ -46,7 +46,7 @@ focus on creating a strong image in the customer’s mind without the use of vag
 wording while also including sport or activity specific information as it pertains to the product.
 
 ## [Capital Asset Pricing Model](https://drive.google.com/file/d/1OZRxUu_8sMnhWm0NFUb17H-6F4pIcGJT/view?usp=sharing)
-- Business Problem
+### Business Problem
 - “Beat the Market” is a common phrase heard up and down Wall Street and the
 investment world. It’s a reference to an investor, corporation, or fund seeing
 better results than an industry standard. In the Investment world, performance is
@@ -96,7 +96,7 @@ accessing both risk
 - This was a team project to create a relational database based off of an imaginary business. See the project requirements for more details.
 
 ## Fundamentals
-- These are the fundamentals labs I completed during school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
+### These are the fundamentals labs I completed during school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
 - [Lab SQL 02 (Select, Where)](https://drive.google.com/file/d/1espYo4HDVLe0bcYDKzwr3aOzQNBANUBU/view?usp=sharing)
 - [Lab SQL 02 (Select, Where) QUERIES](https://drive.google.com/file/d/1ZOGrqY0mJf-rILKq9UsixKvGB-8rn2LX/view?usp=sharing)
 - [LAB SQL 03 (Group By, Having)](https://drive.google.com/file/d/1I1Nn6d8HD1PeBYO_8rYxb936s6OIbUol/view?usp=sharing)
@@ -113,7 +113,7 @@ accessing both risk
 
 # Tableau Projects
 
-## Covid Progression [Link](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
+## [Covid Progression](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
 This visualization shows a map of covid case progression of the months from when it started. 
 
 ## [Interview Questionare Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
@@ -121,7 +121,7 @@ This visualization shows a map of covid case progression of the months from when
  Notebook: Tableau Interview Question.twbx
  
  
-# Interests outside of analytics
+# Personal Interests Outside of Analytics
 
 - Fitness and Nutrition
 - Yoga
@@ -132,3 +132,5 @@ This visualization shows a map of covid case progression of the months from when
 - Gaming
 - Woodshop
 - Travel
+- camping
+- hiking 
