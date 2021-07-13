@@ -1,21 +1,21 @@
 # Skills
 
-- Strong knowledge of Microsoft Office, Python, Pyspark, Rstudio, SQL, NoSQL, Tableau, Gephi,
+- Technical Software and Languages: Microsoft Office, Python, Pyspark, Rstudio, SQL, NoSQL, Tableau, Gephi,
 Docker, Google Cloud Platform, PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas
 
-- Strong knowledge of Marketing Decision Science, Unstructured Data, Web Scraping, Data
+- Technical Topics: Marketing Decision Science, Unstructured Data, Web Scraping, Data
 Cleansing and Manipulation, Predictive Modeling, Topic Modeling, Network Analysis, Language
 Processing, and Statistics
 
 # Education
-## Masters Master of Science in Business Analytics May 2021
-### [University of Colorado Boulder – Leeds School of Business Boulder Colorado](https://www.colorado.edu/business/)
-- Coursework includes: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
+## Master of Science in Business Analytics, May 2021
+### [University of Colorado Boulder – Leeds School of Business](https://www.colorado.edu/business/)
+- Relevant Coursework: Market Intelligence, Digital Advertising, Quantitative Methods, Structured Data
 Modeling & Analysis, Unstructured & Distributed Data Modeling & Analysis, Advanced Data Analytics
 
-## B.S.B.A Finance May 2020
-### [University of Colorado Boulder – Leeds School of Business Boulder Colorado](https://www.colorado.edu/business/) 
-- Coursework includes: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
+## Bachelor of Science in Business Administration with Emphasis in Finance, May 2020
+### [University of Colorado Boulder – Leeds School of Business](https://www.colorado.edu/business/) 
+- Relevant Coursework: The World of Business, Microeconomics, Macroeconomics, Investment Strategy,
 Communication Strategy, Mathematical Analysis in Business, Corporate finance, Corporate accounting
 
 # Python Projects (Google Colab Notebooks)
@@ -25,9 +25,8 @@ Communication Strategy, Mathematical Analysis in Business, Corporate finance, Co
 *Your challenge now is to build an series of regression equations that predict advertising effectiveness (clicks). For this project I want you to imagine that you're working as a digital advertising strategist. You're trying to learn what it is about the advertising campaigns that you're looking at that drove clicks.*
 
 ## [Unstructured Data- Report: NPL topic models on amazon reviews](https://drive.google.com/file/d/1V9g8QSMZZhKxFlPDoCMiEvUumRgYj1g0/view?usp=sharing)
-### [NPL models colab notbook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
-### [Unstructured Data- project assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
-- See project assignment for more details 
+### Appendix: [NLP Models Colab Notebook](https://colab.research.google.com/drive/1zh2tRpfEn39nSZQ2S-PBCp2gNwQ8LrF8?usp=sharing)
+### [Unstructured Data- Project Assignment](https://drive.google.com/file/d/1makuqbtskAJNsHdV-VaWPdCB5bhdr4Rc/view?usp=sharing)
 ### Abstract:
 - This analysis aims to assist Nike in understanding their customers’ experiences while shopping
 for their products on Amazon, as well as understand the shopping experience of their
@@ -45,7 +44,7 @@ in a product description. Those conclusions typically converged around the idea 
 focus on creating a strong image in the customer’s mind without the use of vague, ambiguous
 wording while also including sport or activity specific information as it pertains to the product.
 
-## [Capital Asset Pricing Model](https://drive.google.com/file/d/1OZRxUu_8sMnhWm0NFUb17H-6F4pIcGJT/view?usp=sharing)
+## [Capital Asset Pricing Model Final Report](https://drive.google.com/file/d/1OZRxUu_8sMnhWm0NFUb17H-6F4pIcGJT/view?usp=sharing)
 ### Business Problem
 - “Beat the Market” is a common phrase heard up and down Wall Street and the
 investment world. It’s a reference to an investor, corporation, or fund seeing
@@ -71,29 +70,27 @@ Additionally, the CAPM is an important tool for investors when it comes to
 accessing both risk
 
 ## [PySpark Assignment](https://colab.research.google.com/drive/1PyxPejgDmDeQuOG-V3b4w-1WaVnSsn01?usp=sharing)
-- This was my introduction to pyspark
 
-## [topic model using pipelines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
-- This was my first topic model using pipelines 
+## [Topic Model Using Pipelines](https://colab.research.google.com/drive/1_gdE51uOAr7BOtSZjMkmzAakqY3ivs2A?usp=sharing)
 
-## [Geolocating Twitter Data](https://colab.research.google.com/drive/1kPYTT0ABvaONQIDX30_RqlcJ7hZ9EB7v?usp=sharing) 
+## [Geolocating Twitter Data Assignment and Answer](https://colab.research.google.com/drive/1kPYTT0ABvaONQIDX30_RqlcJ7hZ9EB7v?usp=sharing) 
 - Assignment goals:
 - 1. Extract self-declared users' locations from their Tweets
 - 2. Use the external package geostring to resolve the locations to known cities, states, and countries
 
-## [Scraping Instagram Data](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
-- This assignment showed me how to use APIs to scrape data. 
+## [Scraping Instagram Data Assignment and Answer]](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
+- Usings APIs to scrape data. 
 
 ## [Google Trends Prophet Forecast](https://colab.research.google.com/drive/1rsI6gBR5fOoa-id_dnn-3pTlJl7fKOUF?usp=sharing)
-- This showed me how to take advantage of google trends and the simple to use facebook profit forecast. 
+- Taking advantage of google trends and the simple to use Facebook Profit Forecast. 
 
-## [Video of me explaining a BERT Text Classification Model](https://youtu.be/JtRiFqejWG0)
+## [Video Explaining a BERT Text Classification Model - Gabriel Draxton](https://youtu.be/JtRiFqejWG0)
 
 # SQL Projects 
 
-## [Creation and evaluation of a relational database](https://docs.google.com/document/d/1rIhrkp-Z2cazAGuVP9DhgivRPolO-esBI0_zMM5idlo/edit?usp=sharing)
-- [Project requirments](https://drive.google.com/file/d/1Br9T7n-JVqGs0pH_9zoLXigJ0pWcgw0E/view?usp=sharing)
-- This was a team project to create a relational database based off of an imaginary business. See the project requirements for more details.
+## [Creation and evaluation of a relational database - Answer](https://docs.google.com/document/d/1rIhrkp-Z2cazAGuVP9DhgivRPolO-esBI0_zMM5idlo/edit?usp=sharing)
+- [Project requirements](https://drive.google.com/file/d/1Br9T7n-JVqGs0pH_9zoLXigJ0pWcgw0E/view?usp=sharing)
+- This was a team project to create a relational database based on an imaginary business.
 
 ## Fundamentals
 ### These are the fundamentals labs I completed during school before the tests. Each has a powerpoint of the lab and a raw text of the queries/answers.
@@ -116,7 +113,7 @@ accessing both risk
 ## [Covid Progression](https://public.tableau.com/shared/HTS88PKXD?:display_count=n&:origin=viz_share_link)
 - This visualization shows a map of covid case progression of the months from when it started. 
 
-## [Interview Questionare Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
+## [Interview Questionnaire Answers](https://docs.google.com/document/d/1T1IcVJx9S-ArbGD7Z6gKcwrhSLHmghXvVEjPbmnZJ-g/edit?usp=sharing)
 ### [Notebook](https://drive.google.com/file/d/1LrRpRhBzjF_mcxZRcxk3McdfSEL1bOx8/view?usp=sharing)
 - This was an actual interview problem I was given. 
  
@@ -131,5 +128,5 @@ accessing both risk
 - Gaming
 - Woodshop
 - Travel
-- camping
-- hiking 
+- Camping
+- Hiking 
