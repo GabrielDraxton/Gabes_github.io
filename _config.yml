@@ -1,14 +1,21 @@
   
 title: Gabriel Draxton # your name (or website title) here
+
 logo: "Profile_Picture.jpg" 
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Graduate of the University of Colorado Boulder 
-  with a Master of Science Busness Analytics (Marketing Track) Degree. 
+  <br><br>
+  Master of Science Busness Analytics (Marketing Track) Degree. 
   <br><br>
   Phone (719) 510-0005 
+  <br><br>
   Email: Gabriel.Draxton@colorado.edu
   <br><br>
   <a href="Resume_Draxton_June_2021.pdf">View My Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/gabrieldraxton/">View My LinkedIn Profile</a> 
+  <br><br>
+  <br><br>  
+  <br><br>
 theme: jekyll-theme-minimal
