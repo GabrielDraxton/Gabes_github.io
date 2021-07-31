@@ -78,7 +78,7 @@ accessing both risk
 - 1. Extract self-declared users' locations from their Tweets
 - 2. Use the external package geostring to resolve the locations to known cities, states, and countries
 
-## [Scraping Instagram Data Assignment and Answer]](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
+## [Scraping Instagram Data Assignment and Answer](https://colab.research.google.com/drive/1QUdQtmcywB08qOzHyijvvCZRb6Hrzwl-?usp=sharing)
 - Usings APIs to scrape data. 
 
 ## [Google Trends Prophet Forecast](https://colab.research.google.com/drive/1rsI6gBR5fOoa-id_dnn-3pTlJl7fKOUF?usp=sharing)
